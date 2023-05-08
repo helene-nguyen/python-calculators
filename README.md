@@ -1,5 +1,7 @@
 # Python journey
 
+![banner](./__docs__/media/banner.png)
+
 ## Introduction
 
 For this session, we'll learn data types to create a tip calculator.
